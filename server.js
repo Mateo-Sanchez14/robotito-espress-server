@@ -8,7 +8,7 @@ const app = express();
 const PORT = 8000;
 
 // Dirección y puerto del servidor UDP
-const UDP_SERVER_HOST = '192.168.0.101'; // Cambia esto a la IP del servidor UDP si es necesario
+const UDP_SERVER_HOST = '192.168.0.100'; // Cambia esto a la IP del servidor UDP si es necesario
 const UDP_SERVER_PORT = 3333; // Cambia esto al puerto configurado en tu servidor UDP
 
 // Option 1: Allow all origins
